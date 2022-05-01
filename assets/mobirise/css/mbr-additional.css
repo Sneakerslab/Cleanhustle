@@ -2181,6 +2181,133 @@ a {
   color: #f2f3f7;
   text-align: center;
 }
+.cid-t4AHdNvl9c {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #f2f3f7;
+}
+.cid-t4AHdNvl9c .form-title {
+  color: #ffffff;
+  margin-bottom: 40px;
+  text-align: center;
+}
+@media (max-width: 992px) {
+  .cid-t4AHdNvl9c .form-title {
+    margin-bottom: 30px;
+  }
+}
+.cid-t4AHdNvl9c .form-control {
+  border: none !important;
+  border-bottom: 1px solid #fff !important;
+  background-color: transparent;
+  color: #fff;
+  border-radius: 0;
+  box-shadow: none;
+  padding: .85rem 0 !important;
+}
+@media (max-width: 576px) {
+  .cid-t4AHdNvl9c .form-control {
+    padding: 5px 0 !important;
+  }
+}
+.cid-t4AHdNvl9c .form {
+  background-color: #35b8fc;
+  padding: 1rem;
+  border-radius: 10px;
+  color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-t4AHdNvl9c .form {
+    padding: 5rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-t4AHdNvl9c .form-container {
+    margin-top: 80px;
+  }
+}
+.cid-t4AHdNvl9c .btn {
+  font-size: .9rem;
+  border-radius: 6px;
+  padding: 1.5rem 2rem;
+  margin-top: 34px;
+}
+.cid-t4AHdNvl9c .mbr-section-title {
+  margin: 0;
+  margin-bottom: 80px;
+  color: #232323;
+}
+@media (max-width: 992px) {
+  .cid-t4AHdNvl9c .mbr-section-title {
+    margin-bottom: 40px;
+  }
+}
+.cid-t4AHdNvl9c .frst-subtitle {
+  color: #0196e3;
+}
+.cid-t4AHdNvl9c .scnd-subtitle {
+  color: #0196e3;
+}
+.cid-t4AHdNvl9c .add-info {
+  padding: 1rem 0;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin-top: 90px;
+}
+@media (max-width: 992px) {
+  .cid-t4AHdNvl9c .add-info {
+    margin-top: 40px;
+  }
+}
+.cid-t4AHdNvl9c .mobi-mbri-success {
+  color: #8ec0db;
+  margin-right: 11px;
+}
+.cid-t4AHdNvl9c input::placeholder {
+  color: #e0e0e0;
+}
+.cid-t4AHdNvl9c .price-container {
+  gap: 40px;
+}
+.cid-t4AHdNvl9c .frst-price,
+.cid-t4AHdNvl9c .scnd-price {
+  margin-bottom: .85rem;
+}
+.cid-t4AHdNvl9c .conditions {
+  padding: 1rem 0;
+}
+.cid-t4AHdNvl9c .btn-white {
+  color: #181818 !important;
+  font-weight: 500 !important;
+}
+.cid-t4AHdNvl9c .amount-payment {
+  margin-bottom: 10px;
+  color: #31363b;
+}
+@media (min-width: 576px) {
+  .cid-t4AHdNvl9c .amount-payment {
+    margin-bottom: 0;
+  }
+}
+.cid-t4AHdNvl9c .frst-price {
+  color: #0196e3;
+  text-align: left;
+}
+.cid-t4AHdNvl9c .scnd-price {
+  color: #0196e3;
+}
+.cid-t4AHdNvl9c .mbr-price-month {
+  color: #31363b;
+}
+.cid-t4AHdNvl9c .price-info {
+  color: #31363b;
+}
+.cid-t4AHdNvl9c .mbr-price-period {
+  color: #31363b;
+}
+.cid-t4AHdNvl9c H5 {
+  color: #36187d;
+}
 .cid-svGY7IsFgK {
   padding-top: 7rem;
   padding-bottom: 3rem;
